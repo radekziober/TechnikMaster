@@ -1,0 +1,5 @@
+{
+  "name": "MagazynMaster",
+  "description": "System zarządzania magazynkami (Handling Units) dla linii produkcyjnych SMT/THT z modułami dla Techników i Operatorów.",
+  "requestFramePermissions": []
+}
